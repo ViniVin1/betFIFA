@@ -1,0 +1,146 @@
+{
+  "totalPages": 2,
+  "tournaments": [
+    {
+      "id": 220398,
+      "token": "Вольта Серия А 2025-08-02",
+      "token_international": "Volta Seria A 2025-08-02",
+      "marker": "E",
+      "status_id": 4,
+      "start_date": "2025-08-02T11:00:00Z",
+      "league": {
+        "id": 336,
+        "token": "Вольта Серия А",
+        "token_international": "Volta Seria A"
+      },
+      "location": {
+        "id": 77,
+        "code": "ECF-location-4",
+        "color": "#772d80",
+        "token": "Hillsborough",
+        "token_international": "Hillsborough"
+      }
+    },
+    {
+      "id": 220435,
+      "token": "Лига Чемпионов Б 2025-08-02",
+      "token_international": "Champions League B 2025-08-02",
+      "marker": "J1",
+      "status_id": 4,
+      "start_date": "2025-08-02T11:30:00Z",
+      "league": {
+        "id": 153,
+        "token": "Лига Чемпионов Б",
+        "token_international": "Champions League B"
+      },
+      "location": {
+        "id": 74,
+        "code": "ECF-location-1",
+        "color": "#61baff",
+        "token": "Stamford Bridge",
+        "token_international": "Stamford Bridge"
+      }
+    },
+    {
+      "id": 220409,
+      "token": "Лига 1 2025-08-02",
+      "token_international": "Liga 1 2025-08-02",
+      "marker": "D1",
+      "status_id": 4,
+      "start_date": "2025-08-02T11:40:00Z",
+      "league": {
+        "id": 39,
+        "token": "Лига 1",
+        "token_international": "Liga 1"
+      },
+      "location": {
+        "id": 2,
+        "code": "location-2",
+        "color": "#c82c04",
+        "token": "Old Trafford",
+        "token_international": "Old Trafford"
+      }
+    },
+    {
+      "id": 220424,
+      "token": "Лига Европы 2025-08-02",
+      "token_international": "Europa League 2025-08-02",
+      "marker": "J1",
+      "status_id": 4,
+      "start_date": "2025-08-02T12:00:00Z",
+      "league": {
+        "id": 10,
+        "token": "Лига Европы",
+        "token_international": "Europa League"
+      },
+      "location": {
+        "id": 1,
+        "code": "location-1",
+        "color": "#008080",
+        "token": "Wembley",
+        "token_international": "Wembley"
+      }
+    },
+    {
+      "id": 220438,
+      "token": "Чемпионат Мира А 2х6 2025-08-02",
+      "token_international": "International A 2x6 2025-08-02",
+      "marker": "A2",
+      "status_id": 4,
+      "start_date": "2025-08-02T12:30:00Z",
+      "league": {
+        "id": 318,
+        "token": "Чемпионат Мира А 2х6",
+        "token_international": "International A 2x6"
+      },
+      "location": {
+        "id": 76,
+        "code": "ECF-location-3",
+        "color": "#fff700",
+        "token": "Anfield",
+        "token_international": "Anfield"
+      }
+    },
+    {
+      "id": 220390,
+      "token": "Вольта Лига Чемпионов А 2025-08-02",
+      "token_international": "Volta Champions League A 2025-08-02",
+      "marker": "A",
+      "status_id": 4,
+      "start_date": "2025-08-02T12:40:00Z",
+      "league": {
+        "id": 324,
+        "token": "Вольта Лига Чемпионов А",
+        "token_international": "Volta Champions League A"
+      },
+      "location": {
+        "id": 77,
+        "code": "ECF-location-4",
+        "color": "#772d80",
+        "token": "Hillsborough",
+        "token_international": "Hillsborough"
+      }
+    },
+    ...
+    {
+      "id": 220410,
+      "token": "Чемпионат Мира A 2025-08-02",
+      "token_international": "International A 2025-08-02",
+      "marker": "H",
+      "status_id": 4,
+      "start_date": "2025-08-02T20:20:00Z",
+      "league": {
+        "id": 313,
+        "token": "Чемпионат Мира A",
+        "token_international": "International A"
+      },
+      "location": {
+        "id": 2,
+        "code": "location-2",
+        "color": "#c82c04",
+        "token": "Old Trafford",
+        "token_international": "Old Trafford"
+      }
+    }
+  ]
+}
