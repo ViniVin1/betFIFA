@@ -19,17 +19,4 @@ Este projeto tem como objetivo prever **probabilidades de vitória de cada jogad
 
 ### Estrutura
 
-fifa-bet-predictor/
-├── app/
-├── data/
-│   ├── predictions/
-│   ├── processed/
-│   └── raw/
-├── notebooks/
-├── src/
-│   ├── features/
-│   ├── model/
-│   ├── predict/
-│   └── scraping/
-├── requirements.txt
-└── README.md
+![alt text](src/imgs/image.png)
