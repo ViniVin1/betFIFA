@@ -18,3 +18,5 @@ Este projeto tem como objetivo prever **probabilidades de vitória de cada jogad
   - +3.5 gols
 
 ### Estrutura
+
+![alt text](efifa_predictor\src\imgs\image.png)
