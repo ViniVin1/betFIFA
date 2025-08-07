@@ -19,4 +19,4 @@ Este projeto tem como objetivo prever **probabilidades de vitória de cada jogad
 
 ### Estrutura
 
-![alt text](efifa_predictor\src\imgs\image.png)
+![alt text](efifa_predictor/src/imgs/image.png)
