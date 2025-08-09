@@ -1,0 +1,11 @@
+id,datetime,id_torneio,nome_torneio,id_estadio,token_estadio,nome_estadio,id_player_casa,nome_player_casa,gols_casa,id_time_casa,nome_time_casa,id_player_fora,nome_player_fora,gols_fora,id_time_fora,nome_time_fora,data,hora_brt,hora_us,resultado,gols_total,over_0_5,over_1_5,over_2_5,over_3_5
+1404256,2025-01-01T11:50:00Z,181773,Champions League A 2x6 2025-01-01,136,Anfield-1,Anfield-1,603262,flamez,3,21,Paris Saint-Germain F.C.,603265,Kinshiki,3,6,Manchester City,01/01/2025,11:50,08:50,empate,6,1,1,1,1
+1404257,2025-01-01T11:50:00Z,181773,Champions League A 2x6 2025-01-01,137,Anfield-2,Anfield-2,603263,qqvlone,2,20,Real Madrid,603264,Decade,4,2,Liverpool,01/01/2025,11:50,08:50,fora,6,1,1,1,1
+1404258,2025-01-01T12:08:00Z,181773,Champions League A 2x6 2025-01-01,136,Anfield-1,Anfield-1,603264,Decade,4,2,Liverpool,603262,flamez,3,21,Paris Saint-Germain F.C.,01/01/2025,12:08,09:08,casa,7,1,1,1,1
+1404259,2025-01-01T12:08:00Z,181773,Champions League A 2x6 2025-01-01,137,Anfield-2,Anfield-2,603265,Kinshiki,4,6,Manchester City,603266,SpeciAL,6,9,Bayern Munich,01/01/2025,12:08,09:08,fora,10,1,1,1,1
+1404260,2025-01-01T12:26:00Z,181773,Champions League A 2x6 2025-01-01,136,Anfield-1,Anfield-1,603266,SpeciAL,1,9,Bayern Munich,603264,Decade,3,2,Liverpool,01/01/2025,12:26,09:26,fora,4,1,1,1,1
+1404261,2025-01-01T12:26:00Z,181773,Champions League A 2x6 2025-01-01,137,Anfield-2,Anfield-2,603262,flamez,2,21,Paris Saint-Germain F.C.,603263,qqvlone,4,20,Real Madrid,01/01/2025,12:26,09:26,fora,6,1,1,1,1
+1404262,2025-01-01T12:44:00Z,181773,Champions League A 2x6 2025-01-01,136,Anfield-1,Anfield-1,603263,qqvlone,1,20,Real Madrid,603266,SpeciAL,3,9,Bayern Munich,01/01/2025,12:44,09:44,fora,4,1,1,1,1
+1404263,2025-01-01T12:44:00Z,181773,Champions League A 2x6 2025-01-01,137,Anfield-2,Anfield-2,603264,Decade,2,2,Liverpool,603265,Kinshiki,7,6,Manchester City,01/01/2025,12:44,09:44,fora,9,1,1,1,1
+1404264,2025-01-01T13:02:00Z,181773,Champions League A 2x6 2025-01-01,136,Anfield-1,Anfield-1,603265,Kinshiki,4,6,Manchester City,603263,qqvlone,2,20,Real Madrid,01/01/2025,13:02,10:02,casa,6,1,1,1,1
+1404265,2025-01-01T13:02:00Z,181773,Champions League A 2x6 2025-01-01,137,Anfield-2,Anfield-2,603266,SpeciAL,2,9,Bayern Munich,603262,flamez,3,21,Paris Saint-Germain F.C.,01/01/2025,13:02,10:02,fora,5,1,1,1,1
