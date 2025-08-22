@@ -1,0 +1,6 @@
+id,datetime,id_torneio,nome_torneio,id_estadio,token_estadio,nome_estadio,id_player_casa,nome_player_casa,gols_casa,id_time_casa,nome_time_casa,id_player_fora,nome_player_fora,gols_fora,id_time_fora,nome_time_fora,data,hora_brt,hora_us,resultado,gols_total,id_resultado
+1404256,2025-01-01T11:50:00Z,181773,Champions League A 2x6 2025-01-01,136,Anfield-1,Anfield-1,603262,flamez,3,21,Paris Saint-Germain F.C.,603265,Kinshiki,3,6,Manchester City,01/01/2025,11:50,08:50,empate,6,0
+1404257,2025-01-01T11:50:00Z,181773,Champions League A 2x6 2025-01-01,137,Anfield-2,Anfield-2,603263,qqvlone,2,20,Real Madrid,603264,Decade,4,2,Liverpool,01/01/2025,11:50,08:50,fora,6,2
+1404258,2025-01-01T12:08:00Z,181773,Champions League A 2x6 2025-01-01,136,Anfield-1,Anfield-1,603264,Decade,4,2,Liverpool,603262,flamez,3,21,Paris Saint-Germain F.C.,01/01/2025,12:08,09:08,casa,7,1
+1404259,2025-01-01T12:08:00Z,181773,Champions League A 2x6 2025-01-01,137,Anfield-2,Anfield-2,603265,Kinshiki,4,6,Manchester City,603266,SpeciAL,6,9,Bayern Munich,01/01/2025,12:08,09:08,fora,10,2
+1404260,2025-01-01T12:26:00Z,181773,Champions League A 2x6 2025-01-01,136,Anfield-1,Anfield-1,603266,SpeciAL,1,9,Bayern Munich,603264,Decade,3,2,Liverpool,01/01/2025,12:26,09:26,fora,4,2
